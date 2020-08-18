@@ -1,2 +1,24 @@
 {
+  "videos": [
+    {
+      "id": 1,
+      "title": "hello VUE",
+      "name": "Introduction to VUE.js"
+    },
+    {
+      "id": 2,
+      "title": "hello NEXT",
+      "name": "Introduction to NUXT.js"
+    },
+    {
+      "id": 10,
+      "title": "hello VUW World",
+      "name": "Hello World using VUE.js"
+    },
+    {
+      "id": 1,
+      "title": "hello NUXT",
+      "name": "Hello world using NUXT.js"
+    }
+  ]
 }
